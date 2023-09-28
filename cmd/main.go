@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	todo "github.com/smslash/rest_api_app/pkg"
+	todo "github.com/smslash/rest_api_app/tmp"
 )
 
 func main() {
