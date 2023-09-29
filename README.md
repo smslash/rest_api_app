@@ -3,3 +3,9 @@
 # Author 
 
 * [smslash](https://github.com/smslash)
+
+# Tech
+
+- Gin
+
+- Чистая Архитектура
